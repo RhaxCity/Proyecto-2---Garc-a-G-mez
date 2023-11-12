@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1LQyDpi_9zEAtUHVQ8_0-m2SpNanDLlau
 
 ## Estructura del Repositorio
 
-- `/Cuadernos`: Esta carpeta contiene todos los cuadernos de Python utilizados en el proceso de procesamiento de datos.
+- `/Cuadernos`: Esta carpeta contiene todos los cuadernos de Python utilizados en el proceso de procesamiento de datos (Fueron desarrollados en el entorno 'Google Colab').
 - `/Documento`: Esta carpeta contiene el documento donde se explica detalladamente el contexto del problema y el proceso.
 
 ## Contribuciones y Problemas
