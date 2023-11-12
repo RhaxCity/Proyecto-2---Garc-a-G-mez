@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1LQyDpi_9zEAtUHVQ8_0-m2SpNanDLlau
 
 ## Contribuciones y Problemas
 
-Si encuentras algún problema o tienes sugerencias para mejorar este proyecto, no dude en hacerlo saber.
+Si encuentra algún problema o tiene sugerencias para mejorar este proyecto, no dude en hacérnoslo saber.
 
 
 ---
